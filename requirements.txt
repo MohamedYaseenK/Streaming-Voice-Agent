@@ -1,0 +1,10 @@
+websockets
+numpy
+sounddevice
+soundfile
+silero-vad
+torch
+faster-whisper
+google-generativeai
+pyttsx3
+python-dotenv

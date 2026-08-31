@@ -5,6 +5,13 @@ A real-time voice agent you can hold a spoken conversation with over a live WebS
 
 <img width="821" height="482" alt="Screenshot 2026-08-25 220841" src="https://github.com/user-attachments/assets/c7f1ddfd-cec7-40f9-b5bc-d219caaeda22" />
 
+## Mispelling Name
+
+**Streaming voice patient instead of Agent** 
+
+<img width="1178" height="222" alt="Screenshot 2026-08-31 104730" src="https://github.com/user-attachments/assets/245261cc-3f86-44de-866f-a071423399fa" />
+
+
 
 
 ## How it works

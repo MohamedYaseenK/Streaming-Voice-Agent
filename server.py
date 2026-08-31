@@ -87,6 +87,7 @@ async def run_pipeline(ws, audio: np.ndarray, history: list, vad_ms: float):
         "tts": round(tts_ms, 1),
         "total": round(total_ms, 1),
     }
+    
     payload = {"transcript": transcript, "reply": reply_text, "latency_ms": latency}
     print(payload)
 
